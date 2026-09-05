@@ -16,5 +16,4 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Damian31101&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Damian31101&include_all_commits=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damian31101&show_icons=true&locale=en" alt="Damian31101" /></p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Damian31101&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Damian31101&langs_count=6&theme=radical)
