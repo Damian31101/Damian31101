@@ -2,7 +2,7 @@
 
 ### A passionate developer from Germany
 
-- I'm currently working on [**Roaring 20s**](https://roaring-20s.de)
+- Lead Developer at [**Roaring 20s**](https://roaring-20s.de)
 
 - How to reach me **damian@damianlab.us.kg**
 
